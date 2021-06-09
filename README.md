@@ -9,7 +9,7 @@ THE PRE-REQUISITES:
         BASIC KNOWLEDGE:
              ON MODULES:
              - nltk (Natural Language Processing)
-             - pamdas 
+             - pandas 
              - os
              - sci-kit learn
              - pickle
